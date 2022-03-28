@@ -34,8 +34,7 @@ This graph is related to the two previous ones.
 
 ![image](https://user-images.githubusercontent.com/95872614/160320854-0dc07d1a-7e48-42df-8da5-acd7014fe3dd.png)
 
-It is possible to observed that male demand more the service and their trip duration is around 5 minutes, while woman is significantly less with a trip duration of 6 minutes. 
-It is possible to conclude that the main constraints for both genders are environmental factors related to traffic conditions, motorist aggression and safety. Issues of safety, comfort and accessibility to destinations appear to be more important to women’s overall travel behavior than to men. This may partly explain the low transport cycling rates for women. Women are more likely than men to report safety concerns as constraining their transport cycling
+It is observed that male demand more the service and their trip duration is around 5 minutes, while woman is significantly less with a trip duration of 6 minutes. It is possible to conclude that the main constraints for both genders are environmental factors related to traffic conditions, motorist aggression and safety. Issues of safety, comfort and accessibility to destinations appear to be more important to women’s overall travel behavior than to men. This may partly explain the low transport cycling rates for women. Women are more likely than men to report safety concerns as constraining their transport cycling
 
 ## 2.5 Trips by weekday by hour
 
@@ -46,6 +45,7 @@ This chart shows how demanded is the bike-sharing service during the week and by
 The chart reveals that from Monday to Friday at 8am to 9am is one of the most demanded schedules, follow by Monday, Tuesday, Thursday, and Friday from 17pm to 19pm. These two scheduled clearly underline the behavioral trend of mobility to go to school and work. It is interesting to see the low demand from 10am to 15pm which reinforce the beforementioned statement. Also, it is interesting to analyze the weekend has a completely opposite behavior than during working day, the most demanded time for Saturday and Sunday is 12pm to 17pm which make sense, because most of the population may use this time as a spare time. 
 
 ## 2.6 Trips by Gender (Weekday per Hour)
+
 This chart again reinforces the abovementioned charts. It is possible to see the number of trips by gender, weekday, and hour. 
 
 ![image](https://user-images.githubusercontent.com/95872614/160320939-1e1292af-80ec-4d5e-87c5-75649fcb83fb.png)
@@ -53,6 +53,7 @@ This chart again reinforces the abovementioned charts. It is possible to see the
 Again, is clear gender gap. Another explanation to this behavior may be that Women’s aversion to risk is higher than men’s, also t’s hard to grocery shop for a family and drop kids off at soccer and school on a bicycle and harassment. Female clothes are not friendly with the use of a bike such as skirts, dresses, or pantyhose. 
 
 ## 2.7 User trips by gender
+
 Finally, this last chart reinforces the beforementioned statement about the gender gap. It is very clear to see that men subscribe significantly more to bike-sharing than women. 
 
 ![image](https://user-images.githubusercontent.com/95872614/160320983-5e0d7cc9-d798-4f0e-a905-5b7cf95cc478.png)
@@ -64,7 +65,7 @@ Finally, this last chart reinforces the beforementioned statement about the gend
 -	There is a clear seasonality on the demand schedules or time, the peak hours are clearly mark by the working and/or school time. From 6 am to 9am which are the time to be depart from home to either school or work and from 16pm to 19pm which are the hours to return to home.
 -	Two additional visualizations suggested for future analysis are: the average distance travel and socio-economic-education level from the bike-sharing users. Perhaps a third element of analysis would be to visualize the growth rates per gender in bike-sharing. 
 
-## Invitation to revise my story in Tableau Public: https://public.tableau.com/app/profile/jessica.diaz.de.leon.gomez/viz/Challenge_12_16484272314000/Historia1?publish=yes
+Invitation to revise my story in Tableau Public: https://public.tableau.com/app/profile/jessica.diaz.de.leon.gomez/viz/Challenge_12_16484272314000/Historia1?publish=yes
 
 
 
