@@ -1,6 +1,6 @@
 # 1. Overview of the statistical analysis of BikeSharing
 
-The objective of the challenge is to prepare a story on tableau with the goal to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
+The objective of the analysis is to prepare a story on tableau with the goal to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 
 As a background the bicycle was for years the means of transport used by just about everybody, young and old, until it was discarded with the advent of the car. Cities began to grow, and mobility became a problem: traffic, noise, gridlock, and pollution. It was passé to pedal, de rigueur to drive. And so the bike was relegated to minority transport mode: for those without money, especially sensitive towards the environment, or politically motivated against motor vehicles. This vision, however, has been overturned in recent years and all over the world. The bicycle is becoming the necessary mobility solution once again and one our cities need. Compared to other transport modes, the positive externalities of the use of the bicycle affect both the individual and the community as a whole. It is the vehicle of change for a better society.
 
